@@ -1,2 +1,3 @@
 # hello-world
-Learning exercise.
+
+Just me trying to do the learning exercise. Nothing special, continue scrolling.
